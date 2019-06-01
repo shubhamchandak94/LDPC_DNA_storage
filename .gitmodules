@@ -1,0 +1,6 @@
+[submodule "LDPC-codes"]
+	path = LDPC-codes
+	url = https://github.com/shubhamchandak94/LDPC-codes/
+[submodule "python-bchlib"]
+	path = python-bchlib
+	url = https://github.com/shubhamchandak94/python-bchlib.git
