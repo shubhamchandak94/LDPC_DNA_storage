@@ -4,3 +4,6 @@
 [submodule "python-bchlib"]
 	path = python-bchlib
 	url = https://github.com/shubhamchandak94/python-bchlib.git
+[submodule "util/analysis/python-libraptorq"]
+	path = util/analysis/python-libraptorq
+	url = https://github.com/shubhamchandak94/python-libraptorq
