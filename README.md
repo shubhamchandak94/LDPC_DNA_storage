@@ -3,6 +3,8 @@ LDPC codes for Illumina sequencing-based DNA storage
 
 Installation instructions (tested on Ubuntu 18.04.1)
 ```
+# clone repository with submodules
+git clone --recursive https://github.com/shubhamchandak94/LDPC_DNA_storage
 # install flexbar (our code tested with Flexbar 3.0.3, source code: https://github.com/seqan/flexbar)
 sudo apt-get install flexbar
 # build LDPC codes
@@ -17,6 +19,6 @@ cd ..
 # install BCH codes Python library
 cd python-bchlib/
 python3 setup.py build
-python3 setup.py --user install
+sudo python3 setup.py install
 ```
 
