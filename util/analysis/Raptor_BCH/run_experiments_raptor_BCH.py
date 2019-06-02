@@ -8,7 +8,7 @@ import argparse
 
 def get_argument_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--num_experiments', type=int, default=20)
+    parser.add_argument('--num_experiments', type=int, default=100)
     parser.add_argument('--input_file', type=str, default='random_data_32KB')
     parser.add_argument('--num_chunks', type=int, default=1000)
     parser.add_argument('--eps', type=float, default=0.005)
@@ -18,7 +18,7 @@ def get_argument_parser():
 def main():
     parser = get_argument_parser()
     config = parser.parse_args()
-
+    
     encode_script = "python2 encode_BCH_raptor.py "
     sample_script = "sample_generation_raptor_BSC.py"
     decode_script = "python2 decode_BCH_raptor.py "
@@ -35,11 +35,12 @@ def main():
     log_data = []
     log_data.append(["alpha_raptor", "BCH_bits", "c_w",
                      "c_r", "success-percentage"])
-    
+    print(str(config))
+    log_data.append(str(config))
     # for convenience, we set these parameters below to the values where we see the transition (for eps=0.5%)
     # we tried a lot of combinations of alpha_raptor,BCH_bits that give the same c_w, the values below
     # are the best ones
-    for alpha_raptor,BCH_bits,coverage_list in [(0.28,4,[2.3,2.4,2.5,2.6]),(0.03,2,[6.5,6.6,6.7,6.8]),(0.08,3,[4.1,4.2,4.3,4.4]), (0.11,4,[3.1,3.2,3.3,3.4])]:
+    for alpha_raptor,BCH_bits,coverage_list in [(0.28,4,[2.3,2.4,2.5,2.6]),(0.03,2,[6.5,6.6,6.7,6.8]),(0.08,3,[4.1,4.2,4.3,4.4,4.5]), (0.11,4,[3.1,3.2,3.3,3.4])]:
             # calculate effective alpha and num_chunks
             read_length = (31-BCH_bits) - (31-BCH_bits) % 4 + BCH_bits
             alpha = (1+alpha_raptor)*float(read_length) / \
