@@ -39,14 +39,13 @@ def main():
     f_log = open(log_file, 'w')
     output_file = " data/encoded-file "
 
-    coverage_list = [2.8, 2.9, 3.02, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7]
-    for LDPC_prefix, alpha, coverage_list in [(LDPC_MAT_PATH+'ldpc_9_old', 0.5, [2.0, 2.05, 2.1, 2.15]),
+    for LDPC_prefix, alpha, coverage_list in [(LDPC_MAT_PATH+'ldpc_9_old', 0.5, [2.0, 2.1, 2.2]),
                                               (LDPC_MAT_PATH+'ldpc_13_old',
-                                               0.3, [2.35, 2.4, 2.45, 2.5]),
+                                               0.3, [2.35, 2.45, 2.55]),
                                               (LDPC_MAT_PATH+'ldpc_18_old',
-                                               0.2, [2.6, 2.65, 2.7, 2.75]),
+                                               0.2, [2.6, 2.7, 2.8]),
                                               (LDPC_MAT_PATH+'ldpc_33_old',
-                                               0.1, [3.15, 3.2, 3.25, 3.3]),
+                                               0.1, [3.15, 3.25, 3.35]),
                                               ]:
         log_str = "c_w = " + str(1+alpha) + "\n"
         print(log_str)
@@ -68,8 +67,7 @@ def main():
             print(log_str)
             f_log.write(log_str)
             num_success = 0
-            it = 0
-            while True:
+            for it in range(num_experiments):
                 print(it)
                 sample_file = " data/received-file "
 
@@ -97,19 +95,24 @@ def main():
                 hamm = distance.hamming(enc_str, recon_str)
                 if hamm == 0:
                     num_success += 1
-                it += 1
-                if it >= 50:
-                    if it-num_success >= 10:
-                        break
+                else:
+                    break
 
-            success_percentage = num_success*100.0/it
+            success_percentage = num_success*100.0/num_experiments
             f_log.write(str(it)+"\n")
             f_log.write(str(it-num_success)+"\n")
-            log_str = "c_r = " + \
-                str(coverage) + ", Success percentage = " + \
-                str(success_percentage) + "%\n\n"
-            print(log_str)
-            f_log.write(log_str)
+
+            if num_success == num_experiments:
+                log_str = "c_r = " + \
+                    str(coverage) + ", Success percentage = " + \
+                    str(success_percentage) + "%\n\n"
+                print(log_str)
+                f_log.write(log_str)
+                break
+            else:
+                log_str = "c_r = " + str(coverage) +'\nfailure occured\n\n'
+                print(log_str)
+                f_log.write(log_str)
     f_log.close()
 
 

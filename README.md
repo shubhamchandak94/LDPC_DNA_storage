@@ -20,5 +20,8 @@ cd ..
 cd python-bchlib/
 python3 setup.py build
 sudo python3 setup.py install
+
+# install joblib for parallelization of kalign consensus
+pip3 install --user joblib
 ```
 

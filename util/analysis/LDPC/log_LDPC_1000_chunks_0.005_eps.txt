@@ -1,0 +1,54 @@
+c_w = 1.5
+c_r = 2.0
+1
+0
+c_r = 2.0
+failure occured
+
+c_r = 2.1
+99
+-1
+c_r = 2.1, Success percentage = 100.0%
+
+c_w = 1.3
+c_r = 2.35
+11
+0
+c_r = 2.35
+failure occured
+
+c_r = 2.45
+99
+-1
+c_r = 2.45, Success percentage = 100.0%
+
+c_w = 1.2
+c_r = 2.6
+3
+0
+c_r = 2.6
+failure occured
+
+c_r = 2.7
+99
+-1
+c_r = 2.7, Success percentage = 100.0%
+
+c_w = 1.1
+c_r = 3.15
+10
+0
+c_r = 3.15
+failure occured
+
+c_r = 3.25
+21
+0
+c_r = 3.25
+failure occured
+
+c_r = 3.35
+99
+-1
+c_r = 3.35, Success percentage = 100.0%
+
