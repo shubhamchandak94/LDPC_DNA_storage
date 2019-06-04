@@ -5,7 +5,8 @@ set -e
 
 # script for aligning the fastq files to the oligos
 # needs the paths below to minimap2, samtools and the directory containing the oligos and fastq files
-
+# we used samtools 1.9 (https://github.com/samtools/samtools/releases/download/1.9/samtools-1.9.tar.bz2)
+# and minimap2 version 2.13 (https://github.com/lh3/minimap2/releases/tag/v2.13)
 MINIMAP2='/raid/shubham/minimap2/minimap2'
 SAMTOOLS='/raid/shubham/samtools-1.9/samtools'
 DATA_PATH='../../LDPC_DNA_storage_data/'
