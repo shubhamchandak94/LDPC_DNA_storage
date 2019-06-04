@@ -121,4 +121,8 @@ sync_pos:           see parameters for encode_data
 attempt_indel_cor:  see parameters for decode_data
 frac_random_reads:  fraction of random reads to add while simulating 
 ```
+Returns:
+```
+minimum reading cost (in bases/bit)
+```
 See [`util/run_simulations.py`](https://github.com/shubhamchandak94/LDPC_DNA_storage/blob/master/util/run_simulations.py) for examples.
