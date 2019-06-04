@@ -336,16 +336,15 @@ def remove_index(num_oligos, BCH_bits, infile_name, outfile_data, outfile_index,
                     count_failed += 1
             else:
                 bin_index = dna2bin_2bpb(dna_index)
-                if status == 0:
-                    index_prp = int(bin_index, 2)
-                    index = (prp_a_inv[bin_index_len] *
-                             (index_prp-prp_b[bin_index_len])) % MAX_OLIGOS
-                    if index < num_oligos:
-                        f_data.write(dna_data)
-                        f_index.write(str(index)+'\n')
-                        count_success += 1
-                    else:
-                        count_failed += 1
+                index_prp = int(bin_index, 2)
+                index = (prp_a_inv[bin_index_len] *
+                         (index_prp-prp_b[bin_index_len])) % MAX_OLIGOS
+                if index < num_oligos:
+                    f_data.write(dna_data)
+                    f_index.write(str(index)+'\n')
+                    count_success += 1
+                else:
+                    count_failed += 1
     print("Successfully decoded", count_success, "indices")
     print("Deletion corrected", count_indel_corrected)
     print("Failed to decode", count_failed, "indices")
@@ -456,7 +455,7 @@ def encode_data(infile, oligo_length, outfile, BCH_bits, LDPC_alpha, LDPC_prefix
     return
 
 
-def decode_data(infile, oligo_length, outfile, bin_index_len, BCH_bits, LDPC_alpha, LDPC_prefix, file_size, eps, sync='', sync_pos=-1, attempt_del_cor=True):
+def decode_data(infile, oligo_length, outfile, bin_index_len, BCH_bits, LDPC_alpha, LDPC_prefix, file_size, eps, sync='', sync_pos=-1, attempt_indel_cor=True):
     '''
     Decoder corresponding to encoder encode_data. Need same parameters as that.
     infile is file containing reads of the same length as the oligo_length.
@@ -513,7 +512,7 @@ def decode_data(infile, oligo_length, outfile, bin_index_len, BCH_bits, LDPC_alp
     tmp_data_file = infile+'.tmp.data'
     # first decode index
     remove_index(num_LDPC_blocks*num_oligos_per_LDPC_block, BCH_bits,
-                 infile, tmp_data_file, tmp_index_file, bin_index_len, attempt_indel_cor=attempt_del_cor)
+                 infile, tmp_data_file, tmp_index_file, bin_index_len, attempt_indel_cor=attempt_indel_cor)
     # Now store counts in an array
     total_counts = np.zeros(
         (num_LDPC_blocks, LDPC_dim+parity_bits_per_LDPC_block))
@@ -690,7 +689,7 @@ def sample_reads_indel(infile, outfile, num_reads, sub_prob=0.0, del_prob=0.0, i
     return
 
 
-def find_min_coverage(infile_data, oligo_length, BCH_bits, LDPC_alpha, LDPC_prefix, bin_index_len, file_size, sub_prob, eps_decode, num_experiments, ins_prob=0.0, del_prob=0.0, start_coverage=1.0, sync='', sync_pos=-1, max_bitflips_sub=None, max_bitflips_indel=0, frac_random_reads=0.0):
+def find_min_coverage(infile_data, oligo_length, BCH_bits, LDPC_alpha, LDPC_prefix, bin_index_len, file_size, sub_prob, eps_decode, num_experiments, ins_prob=0.0, del_prob=0.0, start_coverage=1.0, sync='', sync_pos=-1, attempt_indel_cor=True, frac_random_reads=0.0):
     '''
     Find minimum coverage (in steps of 0.1) (coverage in base/bit) when we have 100% successes in num_experiment trials with the given parameters.
     '''
@@ -713,7 +712,7 @@ def find_min_coverage(infile_data, oligo_length, BCH_bits, LDPC_alpha, LDPC_pref
             sample_reads_indel(outfile_oligos, outfile_reads, num_reads,
                                sub_prob=sub_prob, del_prob=del_prob, ins_prob=ins_prob, frac_random_reads=frac_random_reads)
             status = decode_data(outfile_reads, oligo_length, outfile_dec, bin_index_len, BCH_bits, LDPC_alpha,
-                                       LDPC_prefix, file_size, eps_decode, sync=sync, sync_pos=sync_pos, max_bitflips_sub = max_bitflips_sub, max_bitflips_indel=max_bitflips_indel)
+                                       LDPC_prefix, file_size, eps_decode, sync=sync, sync_pos=sync_pos, attempt_indel_cor=attempt_indel_cor)
             if status == 0:
                 with open(outfile_dec, 'rb') as f:
                     dec_str = f.read()

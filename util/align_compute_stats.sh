@@ -61,3 +61,6 @@ for i in {1..9}; do
     num_oligos=$(wc -l $DATA_PATH/oligo_files/oligos_$i.bed | cut -f 1 -d ' ')
     python3 compute_coverage_cv.py $DATA_PATH/aligned/exp_aligned_$i.ref $num_oligos $subsampling_coverage > $DATA_PATH/stats/exp_aligned_cvg_$subsampling_coverage.$i.cv.txt
 done
+
+# create .reads file for exp_1 (with unaligned reads)
+sed -n '2~4p' $DATA_PATH/fastq/exp_1.fastq > $DATA_PATH/fastq/exp_1.reads
