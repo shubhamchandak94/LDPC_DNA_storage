@@ -1,3 +1,7 @@
+# The .pchk and .systematic matrices can be downloaded directly from 
+# https://github.com/shubhamchandak94/LDPC_DNA_storage_data/tree/master/matrices
+# NOTE: make-gen command can take few hours to generate the .gen matrix file.
+
 LDPC_path="../LDPC-codes/"
 LDPC_mat_path="../LDPC-codes/matrices"
 mkdir $LDPC_mat_path
