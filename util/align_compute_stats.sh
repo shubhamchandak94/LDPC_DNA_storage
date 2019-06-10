@@ -40,7 +40,7 @@ done
 # convert to BAM and sort (for collecting stats)
 for i in {1..9}; do
     $SAMTOOLS view -b -o $DATA_PATH/aligned/exp_aligned_$i.bam $DATA_PATH/aligned/exp_aligned_$i.sam
-    $SAMTOOLS sort -O BAM -o $DATA_PATH/aligned/exp_aligned_sorted_$i.bam --reference $DATA_PATH/oligo_files/oligos_$i.fai $DATA_PATH/aligned/exp_aligned_$i.bam
+    $SAMTOOLS sort -O BAM -o $DATA_PATH/aligned/exp_aligned_sorted_$i.bam --reference $DATA_PATH/oligo_files/oligos_$i.fa $DATA_PATH/aligned/exp_aligned_$i.bam
 done
 
 # run samtools stats for computing error rates 
