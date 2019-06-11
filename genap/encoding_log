@@ -1,0 +1,75 @@
+sync_pos 31
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Encoded 1 blocks, source block size 240000, encoded block size 360000
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 4737 indices
+Deletion corrected 0
+Failed to decode 0 indices
+Number of unique indices: 4737
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 4737
+Number of indices with incorrect length consensus: 0
+Number of reads utilized in the counts 4737
+Number of reads not utilized in the counts 0
+Decoded 1 blocks, 1 valid.  Average 0.0 iterations, 0% bit changes
+sync_pos 31
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Encoded 1 blocks, source block size 240000, encoded block size 312000
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 4106 indices
+Deletion corrected 0
+Failed to decode 0 indices
+Number of unique indices: 4106
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 4106
+Number of indices with incorrect length consensus: 0
+Number of reads utilized in the counts 4106
+Number of reads not utilized in the counts 0
+Decoded 1 blocks, 1 valid.  Average 0.0 iterations, 0% bit changes
+sync_pos 31
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Encoded 1 blocks, source block size 240000, encoded block size 264000
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 3474 indices
+Deletion corrected 0
+Failed to decode 0 indices
+Number of unique indices: 3474
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3474
+Number of indices with incorrect length consensus: 0
+Number of reads utilized in the counts 3474
+Number of reads not utilized in the counts 0
+Decoded 1 blocks, 1 valid.  Average 0.0 iterations, 0% bit changes

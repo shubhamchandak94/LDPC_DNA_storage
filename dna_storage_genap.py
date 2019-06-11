@@ -11,7 +11,7 @@ from joblib import Parallel, delayed
 
 # some constants
 LDPC_dim = 240000
-# we operate in the BCH field of 2^6 = 64 bits, so we need 6 bits per error correction
+# we operate in the BCH field of 2^5 = 32 bits, so we need 5 bits per error correction
 # from https://www.mathworks.com/help/comm/ref/gf.html#fp1389050_sep_fp1441639
 BCH_POLYNOMIAL = 37
 BCH_bits_per_error = 5
