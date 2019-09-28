@@ -756,7 +756,7 @@ def remove_barcodes_flexbar(infile_reads, start_barcode, end_barcode, outfile_re
     # penalty for deletion/gap (note : mismatch penalty is -1, match gain is 1)
     del_penalty = -1
     min_adapter_overlap = 10  # minimum overlap required between adapter and read
-    min_read_length = 50  # minimum read length after adapter removal
+    min_read_length = 49  # minimum read length after adapter removal
     max_error_rate = 0.2  # max error rate (indel+substitution) for adapter
     for i in range(2):
         # i = 0: forward, i = 1: reverse
