@@ -1,6 +1,7 @@
 # LDPC DNA storage
 LDPC codes for Illumina sequencing-based DNA storage. The associated data is available at https://github.com/shubhamchandak94/LDPC_DNA_storage_data.
 ### Biorxiv preprint: https://www.biorxiv.org/content/10.1101/770032v2
+### [Supplmentary material](https://github.com/shubhamchandak94/LDPC_DNA_storage/blob/master/supplementary_material.pdf)
 
 Installation instructions (tested on Ubuntu 18.04.1)
 ```
