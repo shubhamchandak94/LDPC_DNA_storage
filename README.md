@@ -3,6 +3,8 @@ LDPC codes for Illumina sequencing-based DNA storage. The associated data is ava
 ### Biorxiv preprint: https://www.biorxiv.org/content/10.1101/770032v2
 ### [Supplmentary material](https://github.com/shubhamchandak94/LDPC_DNA_storage/blob/master/supplementary_material.pdf)
 
+### [Allerton 2019](https://ieeexplore.ieee.org/document/8919890)
+
 Installation instructions (tested on Ubuntu 18.04.1)
 ```
 # clone repository with submodules
