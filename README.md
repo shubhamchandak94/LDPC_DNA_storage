@@ -5,6 +5,8 @@ LDPC codes for Illumina sequencing-based DNA storage. The associated data is ava
 
 ### [Allerton 2019](https://ieeexplore.ieee.org/document/8919890)
 
+**Update:**: This work relied on regular LDPC codes, partly because of lack of implementations of other more powerful LDPC code families such as Protograph LDPC codes. We have now released a library for working with protograph LDPC codes available [here](https://shubhamchandak94.github.io/ProtographLDPC/).
+
 Installation instructions (tested on Ubuntu 18.04.1)
 ```
 # clone repository with submodules
