@@ -1,0 +1,1843 @@
+sync_pos 31
+file_size (in bits): 238720
+num_reads: 7000
+reading cost (bases/bit): 1.4661528150134049
+numreads 7000
+numreads_forward 2950
+numreads_reverse 3721
+numreads_failed 329
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 6580 indices
+Deletion corrected 30
+Failed to decode 91 indices
+Number of unique indices: 3495
+Running Kalign for MSA for each index
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 15% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 14% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 13% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 18.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 27.0 iterations, 13% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 12% bit changes
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3338
+Number of indices with incorrect length consensus: 157
+Number of reads utilized in the counts 6384
+Number of reads not utilized in the counts 196
+num_reads: 7500
+reading cost (bases/bit): 1.570878016085791
+numreads 7500
+numreads_forward 3190
+numreads_reverse 3954
+numreads_failed 356
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 6998 indices
+Deletion corrected 25
+Failed to decode 146 indices
+Number of unique indices: 3555
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3388
+Number of indices with incorrect length consensus: 167
+Number of reads utilized in the counts 6784
+Number of reads not utilized in the counts 214
+num_reads: 8000
+reading cost (bases/bit): 1.675603217158177
+numreads 8000
+numreads_forward 3322
+numreads_reverse 4273
+numreads_failed 405
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7448 indices
+Deletion corrected 29
+Failed to decode 147 indices
+Number of unique indices: 3639
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3483
+Number of indices with incorrect length consensus: 156
+Number of reads utilized in the counts 7254
+Number of reads not utilized in the counts 194
+num_reads: 8500
+reading cost (bases/bit): 1.780328418230563
+numreads 8500
+numreads_forward 3639
+numreads_reverse 4428
+numreads_failed 433
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7927 indices
+Deletion corrected 28
+Failed to decode 140 indices
+Number of unique indices: 3726
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3569
+Number of indices with incorrect length consensus: 157
+Number of reads utilized in the counts 7730
+Number of reads not utilized in the counts 197
+numreads 8500
+numreads_forward 3634
+numreads_reverse 4439
+numreads_failed 427
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7924 indices
+Deletion corrected 28
+Failed to decode 149 indices
+Number of unique indices: 3724
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3596
+Number of indices with incorrect length consensus: 128
+Number of reads utilized in the counts 7759
+Number of reads not utilized in the counts 165
+numreads 8500
+numreads_forward 3647
+numreads_reverse 4460
+numreads_failed 393
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7958 indices
+Deletion corrected 40
+Failed to decode 149 indices
+Number of unique indices: 3711
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3565
+Number of indices with incorrect length consensus: 146
+Number of reads utilized in the counts 7771
+Number of reads not utilized in the counts 187
+numreads 8500
+numreads_forward 3621
+numreads_reverse 4498
+numreads_failed 381
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7959 indices
+Deletion corrected 30
+Failed to decode 160 indices
+Number of unique indices: 3705
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3533
+Number of indices with incorrect length consensus: 172
+Number of reads utilized in the counts 7740
+Number of reads not utilized in the counts 219
+numreads 8500
+numreads_forward 3652
+numreads_reverse 4479
+numreads_failed 369
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7978 indices
+Deletion corrected 26
+Failed to decode 153 indices
+Number of unique indices: 3737
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3588
+Number of indices with incorrect length consensus: 149
+Number of reads utilized in the counts 7792
+Number of reads not utilized in the counts 186
+numreads 8500
+numreads_forward 3651
+numreads_reverse 4460
+numreads_failed 389
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7969 indices
+Deletion corrected 33
+Failed to decode 142 indices
+Number of unique indices: 3757
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3597
+Number of indices with incorrect length consensus: 160
+Number of reads utilized in the counts 7767
+Number of reads not utilized in the counts 202
+numreads 8500
+numreads_forward 3590
+numreads_reverse 4462
+numreads_failed 448
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7899 indices
+Deletion corrected 33
+Failed to decode 153 indices
+Number of unique indices: 3750
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3577
+Number of indices with incorrect length consensus: 173
+Number of reads utilized in the counts 7679
+Number of reads not utilized in the counts 220
+numreads 8500
+numreads_forward 3580
+numreads_reverse 4482
+numreads_failed 438
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7883 indices
+Deletion corrected 29
+Failed to decode 179 indices
+Number of unique indices: 3752
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3587
+Number of indices with incorrect length consensus: 165
+Number of reads utilized in the counts 7680
+Number of reads not utilized in the counts 203
+numreads 8500
+numreads_forward 3604
+numreads_reverse 4492
+numreads_failed 404
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7958 indices
+Deletion corrected 31
+Failed to decode 138 indices
+Number of unique indices: 3787
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3607
+Number of indices with incorrect length consensus: 180
+Number of reads utilized in the counts 7738
+Number of reads not utilized in the counts 220
+numreads 8500
+numreads_forward 3635
+numreads_reverse 4438
+numreads_failed 427
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7939 indices
+Deletion corrected 21Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 13.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 14.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 20.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 19.0 iterations, 12% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 12% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 13% bit changes
+
+Failed to decode 134 indices
+Number of unique indices: 3736
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3582
+Number of indices with incorrect length consensus: 154
+Number of reads utilized in the counts 7752
+Number of reads not utilized in the counts 187
+numreads 8500
+numreads_forward 3570
+numreads_reverse 4517
+numreads_failed 413
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7973 indices
+Deletion corrected 31
+Failed to decode 114 indices
+Number of unique indices: 3783
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3621
+Number of indices with incorrect length consensus: 162
+Number of reads utilized in the counts 7747
+Number of reads not utilized in the counts 226
+numreads 8500
+numreads_forward 3553
+numreads_reverse 4522
+numreads_failed 425
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7928 indices
+Deletion corrected 43
+Failed to decode 147 indices
+Number of unique indices: 3750
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3585
+Number of indices with incorrect length consensus: 165
+Number of reads utilized in the counts 7722
+Number of reads not utilized in the counts 206
+numreads 8500
+numreads_forward 3518
+numreads_reverse 4583
+numreads_failed 399
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7949 indices
+Deletion corrected 37
+Failed to decode 152 indices
+Number of unique indices: 3746
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3577
+Number of indices with incorrect length consensus: 169
+Number of reads utilized in the counts 7731
+Number of reads not utilized in the counts 218
+numreads 8500
+numreads_forward 3610
+numreads_reverse 4502
+numreads_failed 388
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7951 indices
+Deletion corrected 31
+Failed to decode 161 indices
+Number of unique indices: 3784
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3622
+Number of indices with incorrect length consensus: 162
+Number of reads utilized in the counts 7743
+Number of reads not utilized in the counts 208
+numreads 8500
+numreads_forward 3629
+numreads_reverse 4479
+numreads_failed 392
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7973 indices
+Deletion corrected 32
+Failed to decode 135 indices
+Number of unique indices: 3740
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3598
+Number of indices with incorrect length consensus: 142
+Number of reads utilized in the counts 7793
+Number of reads not utilized in the counts 180
+numreads 8500
+numreads_forward 3558
+numreads_reverse 4530
+numreads_failed 412
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7933 indices
+Deletion corrected 34
+Failed to decode 155 indices
+Number of unique indices: 3721
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3569
+Number of indices with incorrect length consensus: 152
+Number of reads utilized in the counts 7753
+Number of reads not utilized in the counts 180
+numreads 8500
+numreads_forward 3618
+numreads_reverse 4481
+numreads_failed 401
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7957 indices
+Deletion corrected 30
+Failed to decode 142 indices
+Number of unique indices: 3760
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3594
+Number of indices with incorrect length consensus: 166
+Number of reads utilized in the counts 7753
+Number of reads not utilized in the counts 204
+numreads 8500
+numreads_forward 3642
+numreads_reverse 4466
+numreads_failed 392
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7955 indices
+Deletion corrected 37
+Failed to decode 153 indices
+Number of unique indices: 3771
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3599
+Number of indices with incorrect length consensus: 172
+Number of reads utilized in the counts 7737
+Number of reads not utilized in the counts 218
+numreads 8500
+numreads_forward 3555
+numreads_reverse 4544
+numreads_failed 401
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7950 indices
+Deletion corrected 41
+Failed to decode 149 indices
+Number of unique indices: 3733
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3570
+Number of indices with incorrect length consensus: 163
+Number of reads utilized in the counts 7744
+Number of reads not utilized in the counts 206
+numreads 8500
+numreads_forward 3520
+numreads_reverse 4582
+numreads_failed 398
+overall rate: 1.0078952923791429 bpb
+num oligos: 4737
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.3333333333333333
+number of LDPC blocks: 1
+Successfully decoded 7958 indices
+Deletion corrected 29
+Failed to decode 144 indices
+Number of unique indices: 3732
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3574
+Number of indices with incorrect length consensus: 158
+Number of reads utilized in the counts 7751
+Number of reads not utilized in the counts 207
+sync_pos 31
+file_size (in bits): 238720
+num_reads: 7000
+reading cost (bases/bit): 1.4661528150134049
+numreads 7000
+numreads_forward 3328
+numreads_reverse 3519
+numreads_failed 153
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 6659 indices
+Deletion corrected 31
+Failed to decode 188 indices
+Number of unique indices: 3223
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3048
+Number of indices with incorrect length consensus: 175
+Number of reads utilized in the counts 6454
+Number of reads not utilized in the counts 205
+num_reads: 7500
+reading cost (bases/bit): 1.570878016085791
+numreads 7500
+numreads_forward 3564
+numreads_reverse 3773
+numreads_failed 163
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 11% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 10% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 10% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 9% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 23.0 iterations, 9% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 25.0 iterations, 9% bit changes
+Decoded 1 blocks, 1 valid.  Average 26.0 iterations, 9% bit changes
+Decoded 1 blocks, 1 valid.  Average 18.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 22.0 iterations, 8% bit changes
+
+number of LDPC blocks: 1
+Successfully decoded 7159 indices
+Deletion corrected 28
+Failed to decode 178 indices
+Number of unique indices: 3342
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3170
+Number of indices with incorrect length consensus: 172
+Number of reads utilized in the counts 6956
+Number of reads not utilized in the counts 203
+num_reads: 8000
+reading cost (bases/bit): 1.675603217158177
+numreads 8000
+numreads_forward 3787
+numreads_reverse 4063
+numreads_failed 150
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 7681 indices
+Deletion corrected 35
+Failed to decode 169 indices
+Number of unique indices: 3433
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3272
+Number of indices with incorrect length consensus: 161
+Number of reads utilized in the counts 7475
+Number of reads not utilized in the counts 206
+num_reads: 8500
+reading cost (bases/bit): 1.780328418230563
+numreads 8500
+numreads_forward 4026
+numreads_reverse 4293
+numreads_failed 181
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 8070 indices
+Deletion corrected 29
+Failed to decode 249 indices
+Number of unique indices: 3500
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3323
+Number of indices with incorrect length consensus: 177
+Number of reads utilized in the counts 7848
+Number of reads not utilized in the counts 222
+num_reads: 9000
+reading cost (bases/bit): 1.885053619302949
+numreads 9000
+numreads_forward 4320
+numreads_reverse 4495
+numreads_failed 185
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 8587 indices
+Deletion corrected 28
+Failed to decode 228 indices
+Number of unique indices: 3513
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3355
+Number of indices with incorrect length consensus: 158
+Number of reads utilized in the counts 8385
+Number of reads not utilized in the counts 202
+num_reads: 9500
+reading cost (bases/bit): 1.989778820375335
+numreads 9500
+numreads_forward 4643
+numreads_reverse 4662
+numreads_failed 195
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9064 indices
+Deletion corrected 33
+Failed to decode 241 indices
+Number of unique indices: 3576
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3439
+Number of indices with incorrect length consensus: 137
+Number of reads utilized in the counts 8892
+Number of reads not utilized in the counts 172
+numreads 9500
+numreads_forward 4467
+numreads_reverse 4829
+numreads_failed 204
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9035 indices
+Deletion corrected 16
+Failed to decode 261 indices
+Number of unique indices: 3554
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3404
+Number of indices with incorrect length consensus: 150
+Number of reads utilized in the counts 8842
+Number of reads not utilized in the counts 193
+numreads 9500
+numreads_forward 4536
+numreads_reverse 4757
+numreads_failed 207
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9065 indices
+Deletion corrected 34
+Failed to decode 228 indices
+Number of unique indices: 3589
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3443
+Number of indices with incorrect length consensus: 146
+Number of reads utilized in the counts 8866
+Number of reads not utilized in the counts 199
+numreads 9500
+numreads_forward 4587
+numreads_reverse 4687
+numreads_failed 226
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9055 indices
+Deletion corrected 31
+Failed to decode 219 indices
+Number of unique indices: 3580
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3434
+Number of indices with incorrect length consensus: 146
+Number of reads utilized in the counts 8878
+Number of reads not utilized in the counts 177
+numreads 9500
+numreads_forward 4530
+numreads_reverse 4759
+numreads_failed 211
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9056 indices
+Deletion corrected 24
+Failed to decode 233 indices
+Number of unique indices: 3572
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3412
+Number of indices with incorrect length consensus: 160
+Number of reads utilized in the counts 8853
+Number of reads not utilized in the counts 203
+numreads 9500
+numreads_forward 4503
+numreads_reverse 4799
+numreads_failed 198
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9051 indices
+Deletion corrected 39
+Failed to decode 251 indices
+Number of unique indices: 3565
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3396
+Number of indices with incorrect length consensus: 169
+Number of reads utilized in the counts 8841
+Number of reads not utilized in the counts 210
+numreads 9500
+numreads_forward 4610
+numreads_reverse 4677
+numreads_failed 213
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9018 indices
+Deletion corrected 28
+Failed to decode 269 indices
+Number of unique indices: 3590
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3425
+Number of indices with incorrect length consensus: 165
+Number of reads utilized in the counts 8807
+Number of reads not utilized in the counts 211
+numreads 9500
+numreads_forward 4610
+numreads_reverse 4693
+numreads_failed 197
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9035 indices
+Deletion corrected 37
+Failed to decode 268 indices
+Number of unique indices: 3572
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3418
+Number of indices with incorrect length consensus: 154
+Number of reads utilized in the counts 8839
+Number of reads not utilized in the counts 196
+numreads 9500
+numreads_forward 4551
+numreads_reverse 4742
+numreads_failed 207
+overall rate:Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 14.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 13.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 23.0 iterations, 9% bit changes
+Decoded 1 blocks, 1 valid.  Average 16.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 17.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 8% bit changes
+Decoded 1 blocks, 1 valid.  Average 20.0 iterations, 8% bit changes
+ 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9071 indices
+Deletion corrected 27
+Failed to decode 222 indices
+Number of unique indices: 3588
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3444
+Number of indices with incorrect length consensus: 144
+Number of reads utilized in the counts 8887
+Number of reads not utilized in the counts 184
+numreads 9500
+numreads_forward 4533
+numreads_reverse 4778
+numreads_failed 189
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9077 indices
+Deletion corrected 27
+Failed to decode 234 indices
+Number of unique indices: 3604
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3468
+Number of indices with incorrect length consensus: 136
+Number of reads utilized in the counts 8898
+Number of reads not utilized in the counts 179
+numreads 9500
+numreads_forward 4492
+numreads_reverse 4799
+numreads_failed 209
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9077 indices
+Deletion corrected 39
+Failed to decode 214 indices
+Number of unique indices: 3588
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3440
+Number of indices with incorrect length consensus: 148
+Number of reads utilized in the counts 8892
+Number of reads not utilized in the counts 185
+numreads 9500
+numreads_forward 4592
+numreads_reverse 4684
+numreads_failed 224
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9030 indices
+Deletion corrected 36
+Failed to decode 246 indices
+Number of unique indices: 3588
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3457
+Number of indices with incorrect length consensus: 131
+Number of reads utilized in the counts 8865
+Number of reads not utilized in the counts 165
+numreads 9500
+numreads_forward 4576
+numreads_reverse 4698
+numreads_failed 226
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9033 indices
+Deletion corrected 21
+Failed to decode 241 indices
+Number of unique indices: 3576
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3439
+Number of indices with incorrect length consensus: 137
+Number of reads utilized in the counts 8850
+Number of reads not utilized in the counts 183
+numreads 9500
+numreads_forward 4451
+numreads_reverse 4832
+numreads_failed 217
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9044 indices
+Deletion corrected 26
+Failed to decode 239 indices
+Number of unique indices: 3583
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3432
+Number of indices with incorrect length consensus: 151
+Number of reads utilized in the counts 8839
+Number of reads not utilized in the counts 205
+numreads 9500
+numreads_forward 4488
+numreads_reverse 4821
+numreads_failed 191
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9103 indices
+Deletion corrected 32
+Failed to decode 206 indices
+Number of unique indices: 3612
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3441
+Number of indices with incorrect length consensus: 171
+Number of reads utilized in the counts 8886
+Number of reads not utilized in the counts 217
+numreads 9500
+numreads_forward 4479
+numreads_reverse 4815
+numreads_failed 206
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9058 indices
+Deletion corrected 26
+Failed to decode 236 indices
+Number of unique indices: 3560
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3414
+Number of indices with incorrect length consensus: 146
+Number of reads utilized in the counts 8871
+Number of reads not utilized in the counts 187
+numreads 9500
+numreads_forward 4507
+numreads_reverse 4765
+numreads_failed 228
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9028 indices
+Deletion corrected 30
+Failed to decode 244 indices
+Number of unique indices: 3589
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3433
+Number of indices with incorrect length consensus: 156
+Number of reads utilized in the counts 8816
+Number of reads not utilized in the counts 212
+numreads 9500
+numreads_forward 4581
+numreads_reverse 4739
+numreads_failed 180
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9084 indices
+Deletion corrected 31
+Failed to decode 236 indices
+Number of unique indices: 3579
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3436
+Number of indices with incorrect length consensus: 143
+Number of reads utilized in the counts 8904
+Number of reads not utilized in the counts 180
+numreads 9500
+numreads_forward 4476
+numreads_reverse 4803
+numreads_failed 221
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9072 indices
+Deletion corrected 35
+Failed to decode 207 indices
+Number of unique indices: 3593
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3454
+Number of indices with incorrect length consensus: 139
+Number of reads utilized in the counts 8891
+Number of reads not utilized in the counts 181
+numreads 9500
+numreads_forward 4569
+numreads_reverse 4710
+numreads_failed 221
+overall rate: 1.1627861665854846 bpb
+num oligos: 4106
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.23088163662932293
+number of LDPC blocks: 1
+Successfully decoded 9039 indices
+Deletion corrected 21
+Failed to decode 240 indices
+Number of unique indices: 3577
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3415
+Number of indices with incorrect length consensus: 162
+Number of reads utilized in the counts 8824
+Number of reads not utilized in the counts 215
+sync_pos 31
+file_size (in bits): 238720
+num_reads: 7000
+reading cost (bases/bit): 1.4661528150134049
+numreads 7000
+numreads_forward 3632
+numreads_reverse 3223
+numreads_failedDecoded 1 blocks, 0 valid.  Average 100.0 iterations, 10% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 10% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 9% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 8% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 7% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 7% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 6% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 6% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 6% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 4% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 4% bit changes
+ 145
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 6689 indices
+Deletion corrected 20
+Failed to decode 166 indices
+Number of unique indices: 2900
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2758
+Number of indices with incorrect length consensus: 142
+Number of reads utilized in the counts 6520
+Number of reads not utilized in the counts 169
+num_reads: 7500
+reading cost (bases/bit): 1.570878016085791
+numreads 7500
+numreads_forward 3888
+numreads_reverse 3482
+numreads_failed 130
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 7206 indices
+Deletion corrected 22
+Failed to decode 164 indices
+Number of unique indices: 2948
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2801
+Number of indices with incorrect length consensus: 147
+Number of reads utilized in the counts 7021
+Number of reads not utilized in the counts 185
+num_reads: 8000
+reading cost (bases/bit): 1.675603217158177
+numreads 8000
+numreads_forward 4096
+numreads_reverse 3753
+numreads_failed 151
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 7664 indices
+Deletion corrected 16
+Failed to decode 185 indices
+Number of unique indices: 2992
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2859
+Number of indices with incorrect length consensus: 133
+Number of reads utilized in the counts 7493
+Number of reads not utilized in the counts 171
+num_reads: 8500
+reading cost (bases/bit): 1.780328418230563
+numreads 8500
+numreads_forward 4350
+numreads_reverse 3996
+numreads_failed 154
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 8139 indices
+Deletion corrected 21
+Failed to decode 207 indices
+Number of unique indices: 3060
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2935
+Number of indices with incorrect length consensus: 125
+Number of reads utilized in the counts 7971
+Number of reads not utilized in the counts 168
+num_reads: 9000
+reading cost (bases/bit): 1.885053619302949
+numreads 9000
+numreads_forward 4699
+numreads_reverse 4142
+numreads_failed 159
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 8623 indices
+Deletion corrected 35
+Failed to decode 218 indices
+Number of unique indices: 3092
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2962
+Number of indices with incorrect length consensus: 130
+Number of reads utilized in the counts 8454
+Number of reads not utilized in the counts 169
+num_reads: 9500
+reading cost (bases/bit): 1.989778820375335
+numreads 9500
+numreads_forward 4828
+numreads_reverse 4494
+numreads_failed 178
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 9100 indices
+Deletion corrected 27
+Failed to decode 222 indices
+Number of unique indices: 3108
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 2974
+Number of indices with incorrect length consensus: 134
+Number of reads utilized in the counts 8913
+Number of reads not utilized in the counts 187
+num_reads: 10000
+reading cost (bases/bit): 2.094504021447721
+numreads 10000
+numreads_forward 5233
+numreads_reverse 4593
+numreads_failed 174
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 9570 indices
+Deletion corrected 27
+Failed to decode 256 indices
+Number of unique indices: 3168
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3038
+Number of indices with incorrect length consensus: 130
+Number of reads utilized in the counts 9401
+Number of reads not utilized in the counts 169
+num_reads: 10500
+reading cost (bases/bit): 2.199229222520107
+numreads 10500
+numreads_forward 5358
+numreads_reverse 4934
+numreads_failed 208
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 10047 indices
+Deletion corrected 31
+Failed to decode 245 indices
+Number of unique indices: 3197
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3078
+Number of indices with incorrect length consensus: 119
+Number of reads utilized in the counts 9891
+Number of reads not utilized in the counts 156
+num_reads: 11000
+reading cost (bases/bit): 2.303954423592493
+numreads 11000
+numreads_forward 5604
+numreads_reverse 5193
+numreads_failed 203
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 10563 indices
+Deletion corrected 36
+Failed to decode 234 indices
+Number of unique indices: 3191
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3094
+Number of indices with incorrect length consensus: 97
+Number of reads utilized in the counts 10437
+Number of reads not utilized in the counts 126
+num_reads: 11500
+reading cost (bases/bit): 2.408679624664879
+numreads 11500
+numreads_forward 5913
+numreads_reverse 5381
+numreads_failed 206
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 11035 indices
+Deletion corrected 32
+Failed to decode 259 indices
+Number of unique indices: 3253
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3164
+Number of indices with incorrect length consensus: 89
+Number of reads utilized in the counts 10904
+Number of reads not utilized in the counts 131
+num_reads: 12000
+reading cost (bases/bit): 2.513404825737265
+numreads 12000
+numreads_forward 6186
+numreads_reverse 5612
+numreads_failed 202
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 11510 indices
+Deletion corrected 30
+Failed to decode 288 indices
+Number of unique indices: 3258
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3179
+Number of indices with incorrect length consensus: 79
+Number of reads utilized in the counts 11408
+Number of reads not utilized in the counts 102
+num_reads: 12500
+reading cost (bases/bit): 2.6181300268096517
+numreads 12500
+numreads_forward 6523
+numreads_reverse 5734
+numreads_failed 243
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length:Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 4% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 3% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 38.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 25.0 iterations, 3% bit changes
+Decoded 1 blocks, 0 valid.  Average 100.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 13.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 9.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 8.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 12.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 10.0 iterations, 3% bit changes
+ 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 11970 indices
+Deletion corrected 31
+Failed to decode 287 indices
+Number of unique indices: 3312
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3232
+Number of indices with incorrect length consensus: 80
+Number of reads utilized in the counts 11869
+Number of reads not utilized in the counts 101
+num_reads: 13000
+reading cost (bases/bit): 2.7228552278820377
+numreads 13000
+numreads_forward 6826
+numreads_reverse 5934
+numreads_failed 240
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 12485 indices
+Deletion corrected 37
+Failed to decode 275 indices
+Number of unique indices: 3329
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3246
+Number of indices with incorrect length consensus: 83
+Number of reads utilized in the counts 12359
+Number of reads not utilized in the counts 126
+num_reads: 13500
+reading cost (bases/bit): 2.8275804289544237
+numreads 13500
+numreads_forward 6988
+numreads_reverse 6280
+numreads_failed 232
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 12920 indices
+Deletion corrected 42
+Failed to decode 348 indices
+Number of unique indices: 3331
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3234
+Number of indices with incorrect length consensus: 97
+Number of reads utilized in the counts 12774
+Number of reads not utilized in the counts 146
+num_reads: 14000
+reading cost (bases/bit): 2.9323056300268098
+numreads 14000
+numreads_forward 7266
+numreads_reverse 6471
+numreads_failed 263
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13417 indices
+Deletion corrected 36
+Failed to decode 320 indices
+Number of unique indices: 3337
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3259
+Number of indices with incorrect length consensus: 78
+Number of reads utilized in the counts 13309
+Number of reads not utilized in the counts 108
+numreads 14000
+numreads_forward 7193
+numreads_reverse 6585
+numreads_failed 222
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13454 indices
+Deletion corrected 45
+Failed to decode 324 indices
+Number of unique indices: 3323
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3252
+Number of indices with incorrect length consensus: 71
+Number of reads utilized in the counts 13339
+Number of reads not utilized in the counts 115
+numreads 14000
+numreads_forward 7348
+numreads_reverse 6392
+numreads_failed 260
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13430 indices
+Deletion corrected 34
+Failed to decode 310 indices
+Number of unique indices: 3327
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3237
+Number of indices with incorrect length consensus: 90
+Number of reads utilized in the counts 13283
+Number of reads not utilized in the counts 147
+num_reads: 14500
+reading cost (bases/bit): 3.037030831099196
+numreads 14500
+numreads_forward 7469
+numreads_reverse 6769
+numreads_failed 262
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13937 indices
+Deletion corrected 33
+Failed to decode 301 indices
+Number of unique indices: 3349
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3277
+Number of indices with incorrect length consensus: 72
+Number of reads utilized in the counts 13826
+Number of reads not utilized in the counts 111
+numreads 14500
+numreads_forward 7506
+numreads_reverse 6741
+numreads_failed 253
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13902 indices
+Deletion corrected 34
+Failed to decode 345 indices
+Number of unique indices: 3364
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3296
+Number of indices with incorrect length consensus: 68
+Number of reads utilized in the counts 13788
+Number of reads not utilized in the counts 114
+numreads 14500
+numreads_forward 7392
+numreads_reverse 6826
+numreads_failed 282
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13887 indices
+Deletion corrected 40
+Failed to decode 331 indices
+Number of unique indices: 3360
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3290
+Number of indices with incorrect length consensus: 70
+Number of reads utilized in the counts 13776
+Number of reads not utilized in the counts 111
+numreads 14500
+numreads_forward 7538
+numreads_reverse 6689
+numreads_failed 273
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13882 indices
+Deletion corrected 37
+Failed to decode 345 indices
+Number of unique indices: 3348
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3275
+Number of indices with incorrect length consensus: 73
+Number of reads utilized in the counts 13770
+Number of reads not utilized in the counts 112
+numreads 14500
+numreads_forward 7503
+numreads_reverse 6729
+numreads_failed 268
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13886 indices
+Deletion corrected 55
+Failed to decode 346 indices
+Number of unique indices: 3363
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3290
+Number of indices with incorrect length consensus: 73
+Number of reads utilized in the counts 13754
+Number of reads not utilized in the counts 132
+numreads 14500
+numreads_forward 7413
+numreads_reverse 6824
+numreads_failed 263
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13918 indices
+Deletion corrected 35
+Failed to decode 319 indices
+Number of unique indices: 3352
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3282
+Number of indices with incorrect length consensus: 70
+Number of reads utilized in the countsDecoded 1 blocks, 1 valid.  Average 15.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 13.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 15.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 10.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 9.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 10.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 8.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 11.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 8.0 iterations, 2% bit changes
+Decoded 1 blocks, 1 valid.  Average 10.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 18.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 7.0 iterations, 3% bit changes
+ 13811
+Number of reads not utilized in the counts 107
+numreads 14500
+numreads_forward 7358
+numreads_reverse 6833
+numreads_failed 309
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13859 indices
+Deletion corrected 39
+Failed to decode 332 indices
+Number of unique indices: 3357
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3286
+Number of indices with incorrect length consensus: 71
+Number of reads utilized in the counts 13747
+Number of reads not utilized in the counts 112
+numreads 14500
+numreads_forward 7514
+numreads_reverse 6721
+numreads_failed 265
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13917 indices
+Deletion corrected 38
+Failed to decode 318 indices
+Number of unique indices: 3338
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3265
+Number of indices with incorrect length consensus: 73
+Number of reads utilized in the counts 13807
+Number of reads not utilized in the counts 110
+numreads 14500
+numreads_forward 7480
+numreads_reverse 6766
+numreads_failed 254
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13900 indices
+Deletion corrected 38
+Failed to decode 346 indices
+Number of unique indices: 3348
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3281
+Number of indices with incorrect length consensus: 67
+Number of reads utilized in the counts 13787
+Number of reads not utilized in the counts 113
+numreads 14500
+numreads_forward 7677
+numreads_reverse 6560
+numreads_failed 263
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13892 indices
+Deletion corrected 42
+Failed to decode 345 indices
+Number of unique indices: 3360
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3303
+Number of indices with incorrect length consensus: 57
+Number of reads utilized in the counts 13799
+Number of reads not utilized in the counts 93
+numreads 14500
+numreads_forward 7468
+numreads_reverse 6784
+numreads_failed 248
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13911 indices
+Deletion corrected 36
+Failed to decode 341 indices
+Number of unique indices: 3360
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3287
+Number of indices with incorrect length consensus: 73
+Number of reads utilized in the counts 13805
+Number of reads not utilized in the counts 106
+numreads 14500
+numreads_forward 7432
+numreads_reverse 6834
+numreads_failed 234
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13932 indices
+Deletion corrected 47
+Failed to decode 334 indices
+Number of unique indices: 3351
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3288
+Number of indices with incorrect length consensus: 63
+Number of reads utilized in the counts 13820
+Number of reads not utilized in the counts 112
+numreads 14500
+numreads_forward 7588
+numreads_reverse 6658
+numreads_failed 254
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13923 indices
+Deletion corrected 51
+Failed to decode 323 indices
+Number of unique indices: 3355
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3278
+Number of indices with incorrect length consensus: 77
+Number of reads utilized in the counts 13813
+Number of reads not utilized in the counts 110
+numreads 14500
+numreads_forward 7420
+numreads_reverse 6812
+numreads_failed 268
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13894 indices
+Deletion corrected 38
+Failed to decode 338 indices
+Number of unique indices: 3370
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3309
+Number of indices with incorrect length consensus: 61
+Number of reads utilized in the counts 13800
+Number of reads not utilized in the counts 94
+numreads 14500
+numreads_forward 7508
+numreads_reverse 6698
+numreads_failed 294
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13886 indices
+Deletion corrected 34
+Failed to decode 320 indices
+Number of unique indices: 3363
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3286
+Number of indices with incorrect length consensus: 77
+Number of reads utilized in the counts 13765
+Number of reads not utilized in the counts 121
+numreads 14500
+numreads_forward 7404
+numreads_reverse 6818
+numreads_failed 278
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13889 indices
+Deletion corrected 27
+Failed to decode 333 indices
+Number of unique indices: 3344
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3257
+Number of indices with incorrect length consensus: 87
+Number of reads utilized in the counts 13746
+Number of reads not utilized in the counts 143
+numreads 14500
+numreads_forward 7563
+numreads_reverse 6684
+numreads_failed 253
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13892 indices
+Deletion corrected 40
+Failed to decode 355 indices
+Number of unique indices: 3367
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3303
+Number of indices with incorrect length consensus: 64
+Number of reads utilized in the counts 13793
+Number of reads not utilized in the counts 99
+numreads 14500
+numreads_forward 7435
+numreads_reverse 6778
+numreads_failed 287
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13877 indices
+Deletion corrected 43
+Failed to decode 336 indices
+Number of unique indices: 3355
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3267
+Number of indices with incorrect length consensus: 88
+Number of reads utilized in the counts 13749
+Number of reads not utilized in the countsDecoded 1 blocks, 1 valid.  Average 13.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 13.0 iterations, 3% bit changes
+Decoded 1 blocks, 1 valid.  Average 11.0 iterations, 3% bit changes
+ 128
+numreads 14500
+numreads_forward 7477
+numreads_reverse 6760
+numreads_failed 263
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13888 indices
+Deletion corrected 48
+Failed to decode 349 indices
+Number of unique indices: 3345
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3277
+Number of indices with incorrect length consensus: 68
+Number of reads utilized in the counts 13789
+Number of reads not utilized in the counts 99
+numreads 14500
+numreads_forward 7503
+numreads_reverse 6699
+numreads_failed 298
+overall rate: 1.3743235463442718 bpb
+num oligos: 3474
+oligo length: 50 bases
+bases per oligo for index + index parity: 12
+fraction of oligos used for parity check: 0.09096142774899252
+number of LDPC blocks: 1
+Successfully decoded 13852 indices
+Deletion corrected 44
+Failed to decode 350 indices
+Number of unique indices: 3357
+Running Kalign for MSA for each index
+Computing counts from Kalign output
+Number of indices with correct length consensus: 3287
+Number of indices with incorrect length consensus: 70
+Number of reads utilized in the counts 13727
+Number of reads not utilized in the counts 125
